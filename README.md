@@ -181,7 +181,7 @@ Nov 25:     [Final Showcase at Ogun Tech Hub, Kobape, Abeokuta]
 
 ---
 
-## 👥 Team & Roles
+## Team & Roles
 
 * **Timi** — AI / Computer Vision Lead (Foundation model probing, feature extraction, evaluation metrics & explainability).
 * **Teammate** — Field Operations, Labeling Infrastructure & Backend / WhatsApp / QR Demo Path.

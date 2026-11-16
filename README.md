@@ -145,7 +145,6 @@ cd AdireTrust
 # Create and activate virtual environment
 python -m venv venv
 .\venv\Scripts\activate   # Windows
-# source venv/bin/activate # Linux/macOS
 
 # Install dependencies
 pip install -r requirements.txt
@@ -158,7 +157,6 @@ Open and run `scraping.ipynb` to ingest open-access datasets, compute perceptual
 ```bash
 jupyter notebook scraping.ipynb
 ```
-
 ---
 
 ## 10-Day Hackathon Roadmap

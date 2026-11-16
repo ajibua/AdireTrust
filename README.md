@@ -1,6 +1,6 @@
 # AdireTrust: Preserving Cultural Heritage & Artisan Livelihoods with Computer Vision
 
-> **An AI-powered authentication and digital provenance ecosystem designed to distinguish authentic hand-dyed Abeokuta Adire from industrial factory prints, protecting local artisans and restoring trust in African textiles.**
+**An AI-powered authentication and digital provenance ecosystem designed to distinguish authentic hand-dyed Abeokuta Adire from industrial factory prints, protecting local artisans and restoring trust in African textiles.**
 
 ---
 
